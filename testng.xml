@@ -1,0 +1,7 @@
+<suite name="planit">
+<test name="feedback">
+<classes>
+<class name="runner.TestRunner"></class>
+</classes>
+</test>
+</suite>
